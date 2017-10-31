@@ -1,0 +1,96 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 22.21.13.8205]
+    Renderer: NVIDIA GeForce GTX 860M
+    Vendor:   NVIDIA
+    VRAM:     2019 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.715 seconds
+Platform assembly: C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\josep_000\Documents\Unity\Ascension\Joseph Jump_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.663714 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.634246 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 524.
+Total: 0.324742 ms (FindLiveObjects: 0.037359 ms CreateObjectMapping: 0.032022 ms MarkObjects: 0.236064 ms  DeleteObjects: 0.018885 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 17.557423 ms
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 2.340113 ms (FindLiveObjects: 0.118237 ms CreateObjectMapping: 0.134248 ms MarkObjects: 0.563269 ms  DeleteObjects: 1.521484 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.347322 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 526.
+Total: 0.282045 ms (FindLiveObjects: 0.030790 ms CreateObjectMapping: 0.023401 ms MarkObjects: 0.212662 ms  DeleteObjects: 0.014779 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.997761 ms
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 2.221465 ms (FindLiveObjects: 0.096478 ms CreateObjectMapping: 0.106742 ms MarkObjects: 0.556700 ms  DeleteObjects: 1.459081 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.327615 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 526.
+Total: 0.262749 ms (FindLiveObjects: 0.029559 ms CreateObjectMapping: 0.022990 ms MarkObjects: 0.195420 ms  DeleteObjects: 0.014369 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.424137 ms
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 1.557202 ms (FindLiveObjects: 0.059118 ms CreateObjectMapping: 0.070203 ms MarkObjects: 0.443800 ms  DeleteObjects: 0.982847 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.357175 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 526.
+Total: 0.278760 ms (FindLiveObjects: 0.031201 ms CreateObjectMapping: 0.022990 ms MarkObjects: 0.209789 ms  DeleteObjects: 0.014369 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.232001 ms
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 1.546527 ms (FindLiveObjects: 0.059529 ms CreateObjectMapping: 0.069382 ms MarkObjects: 0.393303 ms  DeleteObjects: 1.023491 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.331721 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 526.
+Total: 0.279171 ms (FindLiveObjects: 0.031612 ms CreateObjectMapping: 0.023401 ms MarkObjects: 0.209378 ms  DeleteObjects: 0.014369 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.327248 ms
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 359.
+Total: 1.526411 ms (FindLiveObjects: 0.055423 ms CreateObjectMapping: 0.071024 ms MarkObjects: 0.393303 ms  DeleteObjects: 1.005427 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 30c8 -> priority: 1 
+  Thread -> id: 30bc -> priority: 1 
+  Thread -> id: 27a0 -> priority: 1 
+  Thread -> id: 30d8 -> priority: 1 
